@@ -7,18 +7,18 @@ Este repositório documenta o progresso do projeto de aprendizado em QA, organiz
 Cada Sprint representa um período de desenvolvimento dos estudos com um resumo diários do aprendizado.
 
 ## 📜 Índice 📜
-<a href="#sprint1">Sprint 1</a> <BR>
-<a href="#DIA01"> Dia 01 Desvendando Git, GitHub, GitLab e Readme.</a> <br>
-<a href="#DIA02">DIA 02 Mergulhando no Scrum Agile</a> <br>
-<a href="#DIA03">DIA 03 Mergulhando no Mundo dos Testes de Software e QA</a> <BR>
-<a href="#DIA04">DIA 04 Aprimorando Habilidades de QA</a> <br>
-<a href="#DIA05">DIA 05 Fundamentos do Teste de Software</a> <br>
-<a href="#DIA06">DIA 06 A pirâmide de testes e sua imporância</a> <br>
 
+* [Dia 01 Desvendando Git, GitHub, GitLab e Readme](#dia01-desvendando-git-github-gitlab-e-readme)
+* [Dia 02 Mergulhando no Scrum Agile](#dia02-mergulhando-no-scrum-agile)
+* [Dia 03 Mergulhando no Mundo dos Testes de Software e QA](#dia03-mergulhando-no-mundo-dos-testes-de-software-e-qa)
+* [Dia 04 Aprimorando Habilidades de QA](#dia04-aprimorando-habilidades-de-qa)
+* [Dia 05 Fundamentos do Teste de Software](#dia05-fundamentos-do-teste-de-software)
+* [Dia 06 A pirâmide de testes e sua importância](#dia06-a-piramede-de-testes-e-sua-importancia)
+  
 ## Sprints
 
 ### Sprint 1: [14/10/2024] - [Data de Término]
-![Início dos estudos](./assets/inicio.png) 
+![inicio](https://github.com/user-attachments/assets/eaff6260-875d-4886-b096-5e7dd5e4b33b)
 * **DIA 01:**
     * 📅 Resumo do Dia 1:<br>
     Desvendando Git, GitHub, GitLab e Readme.<br>
